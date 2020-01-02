@@ -7,6 +7,7 @@ import PrimaryLayout from "../layouts/PrimaryLayout"
 import { graphql } from "gatsby"
 
 
+
 export default ({ data }) => {
   console.log(data)
   return (
